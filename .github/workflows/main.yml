@@ -15,7 +15,7 @@ env:
   AZURE_ML_WORKSPACE_NAME: "cats-dogs-titidhom"
   AZURE_WEBAPP_NAME: "cats-dogs-titidhom"
   DELETE_WEBAPP: "false"
-  DOCKER_IMAGE_NAME: "guillaumechervetlunique/mlopspythont-titidhom"
+  DOCKER_IMAGE_NAME: "guillaumechervetlunique/mlopspython-titidhom"
 
 permissions:
   id-token: write
